@@ -1,0 +1,29 @@
+
+        body{
+            background-color: #EAF6F6;
+        }
+        hr{
+           border-color: gray;
+            border-style: dotted none none none;
+            border-width: 5px;
+            height: 0px;
+            width:5%;
+        }
+        h1{
+            color: #66BFBF;
+        }
+        h3{
+            color: #329797;
+        }
+        .myimage{
+            border-radius: 100%;
+        }
+        h1:hover{
+            color: #02475e;
+           
+        }
+        .myimage{
+            border-radius: 50%;
+        }
+        
+  

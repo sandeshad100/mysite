@@ -1,0 +1,28 @@
+/* Tag selector*/
+body{
+    background-color: aqua;
+}
+h1{
+    color: red;
+    font-size:100px;
+}
+img:hover{
+    background-color: gold;
+  
+}
+
+
+/* Class Selector*/
+.becon{
+    background-color: green;
+}
+.broccoli
+{
+    background-color: red;
+}
+.circular{
+    border-radius: 100%;
+}
+#heading{
+    color: green;
+}
